@@ -40,9 +40,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loveleshsingh24&show_icons=true&locale=en" alt="loveleshsingh24" /></p>
 </div>
 ---
-### ✍️ Random Lovelesh Quote
+### ✍️ Random Lovelesh Quote <br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-### 😂 Random Lovelesh Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+### 😂 Random Lovelesh Meme <br>
+<img src='https://randommeme-five.vercel.app' style="height: 400px;"/>
 ---
 
