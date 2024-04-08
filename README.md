@@ -41,7 +41,7 @@
 </div>
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Random Lovelesh Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ### 😂 Random Lovelesh Meme 
 <br>
