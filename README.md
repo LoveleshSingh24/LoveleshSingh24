@@ -40,6 +40,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loveleshsingh24&show_icons=true&locale=en" alt="loveleshsingh24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loveleshsingh24&" alt="loveleshsingh24" /></p>
-<p><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.creativesafetysupply.com%2Ffunny-engineering-memes%2F&psig=AOvVaw1wDzh2Da1BiCst3wy4IoJA&ust=1712648154311000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLD029iNsoUDFQAAAAAdAAAAABA7" alt="loveleshsingh24" /></p>
+<p><img align="center" src="https://blog.creativesafetysupply.com/wp-content/uploads/2012/10/engmeme4-e1522631885237.png"></p>
 
 
