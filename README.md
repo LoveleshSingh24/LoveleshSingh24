@@ -3,7 +3,7 @@
 
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/LoveleshSingh24/LoveleshSingh24/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mr-DevanshuGupta/Mr-DevanshuGupta/output/github-contribution-grid-snake.svg" />
 
   <br/><br/><br/>
 </div>
