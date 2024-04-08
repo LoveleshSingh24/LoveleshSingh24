@@ -40,5 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loveleshsingh24&show_icons=true&locale=en" alt="loveleshsingh24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loveleshsingh24&" alt="loveleshsingh24" /></p>
-<p><img align="center" src="https://giphy.com/gifs/4LsN0YwgIsvaU" alt="loveleshsingh24" /></p>
+
 
