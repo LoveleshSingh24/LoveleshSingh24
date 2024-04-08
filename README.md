@@ -39,7 +39,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loveleshsingh24&show_icons=true&locale=en" alt="loveleshsingh24" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loveleshsingh24&" alt="loveleshsingh24" /></p>
-<p><img src="https://blog.creativesafetysupply.com/wp-content/uploads/2012/10/engmeme4-e1522631885237.png" height="400px" width="400px" ></p>
-<h3>Ah, the thrilling prospect of being a 2024 or 2025 graduate in the IT field! How fortunate we are to potentially face a recession right out of the gate.</h3>
-<p><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnozOWNhNWl4ODRxZjY3ZncyaGNpdDZ1NWE1bTNlZmN3emtpaDVzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0GRkzJhkMlJotMFq/giphy.gif" height="400px" width="400px" ></p>
+### ✍️ Random Lovelesh Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 😂 Random Lovelesh Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
