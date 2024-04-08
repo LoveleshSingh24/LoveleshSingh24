@@ -1,4 +1,12 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<div align="center">
+
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/LoveleshSingh24/LoveleshSingh24/output/github-contribution-grid-snake.svg" />
+
+  <br/><br/><br/>
+</div>
 <h1 align="center">Hi 👋, I'm Lovelesh Singh</h1>
 <h3 align="center">"Code Composer: Crafting the Web with a Hint of Machine Learning"</h3>
 <img align="right" alt="football" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHUyNTM3eXk2OGVvMTFpYjJ0M2o4ZnU1YmNsdnU2cjN3eGpsamE4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif">
