@@ -38,7 +38,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loveleshsingh24&show_icons=true&locale=en&layout=compact" alt="loveleshsingh24" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loveleshsingh24&show_icons=true&locale=en" alt="loveleshsingh24" /></p>
-
+</div>
+---
 ### ✍️ Random Lovelesh Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ### 😂 Random Lovelesh Meme
