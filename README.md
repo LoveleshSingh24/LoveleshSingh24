@@ -3,7 +3,7 @@
 
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-[<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/LoveleshSingh24/LoveleshSingh24/main/github-contribution-grid-snake.svg" />](https://raw.githubusercontent.com/LoveleshSingh24/LoveleshSingh24/main/dist/github-contribution-grid-snake.svg)
+[<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/LoveleshSingh24/main/github-contribution-grid-snake.svg" />](https://raw.githubusercontent.com/LoveleshSingh24/LoveleshSingh24/main/dist/github-contribution-grid-snake.svg)
 
 
   <br/><br/><br/>
