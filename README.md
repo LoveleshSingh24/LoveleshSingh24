@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loveleshsingh24&label=Profile%20views&color=0e75b6&style=flat" alt="loveleshsingh24" /> </p>
 
-- 🔭 I’m currently working on [Online Quiz Platform (QuizPlanet)](https://github.com/LoveleshSingh24/myenv.git)
+- 🔭 I’m currently working on [Sentiment_analysis_DS_project](https://github.com/LoveleshSingh24/Sentiment_analysis_DS_project.git)
 
 - 🌱 I’m currently learning **Django,Machin Learning,Python,Javascript,React,Node,Express,Rest(framework),Postman,AWS,**
 
